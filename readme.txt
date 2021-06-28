@@ -1,4 +1,3 @@
-Git is a version control system.
+sGit is a version control system.
 Git is free software.
-Git is a version control system.
-Git is free software.
+Hello world!
